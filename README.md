@@ -16,7 +16,7 @@ Each **problem folder** contains:
 ---
 ## 🛠️ Tech Stack
 - **Language:** JavaScript (with TypeScript for some solutions)  
-- **Platform:** [LeetCode](https://leetcode.com/) primary source   
+- **Platform:** [LeetCode](https://leetcode.com/u/RevatiR/) primary source   
 
 ---
 
