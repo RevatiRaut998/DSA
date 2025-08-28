@@ -1,3 +1,4 @@
+// Problem 242
 // Function to check if two strings are anagrams
 // Optimized approach using character count
 // Time complexity: O(n) , space complexity: O(1)

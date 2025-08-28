@@ -1,3 +1,6 @@
+// Problem 344
+// Find the reverse of a string
+// Using two-pointer approach
 function reverseString(s) {
     let left = 0;
     let right = s.length - 1;

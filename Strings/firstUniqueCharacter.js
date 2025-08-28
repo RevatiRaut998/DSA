@@ -1,3 +1,6 @@
+// Problem 387
+// Find the first unique character in a string
+// Using hash map to count frequencies
 function firstUniqChar(s) {
     // Step 1: Count frequencies
     const freq = {};
