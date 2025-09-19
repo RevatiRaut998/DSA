@@ -55,3 +55,12 @@ function buildArray(nums) {
 - Good when you want short, idiomatic JS code.
 */
 
+
+/*************************************************************************************************************************************/
+
+
+// Using forEach()
+function buildArray6(nums) {
+  nums.forEach((elem, i) => (nums[i] = nums[nums[i]]));
+  return nums;
+}
