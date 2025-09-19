@@ -6,10 +6,26 @@ Specifically, ans is the concatenation of two nums arrays.
 Return the array ans
  */
 
+//Approach 1
 var getConcatenation = function(nums) {
     return nums.concat(nums);
 };
+console.log(getConcatenation([1, 2, 1]));
 
+
+//Approach 2
+function getConcatenation(nums) {
+  return [...nums, ...nums];
+}
+console.log(getConcatenation([1, 2, 1]));
+
+
+// Approch 3: Using push() and leveraging spread syntax
+function getConcatenation2(nums) {
+  nums.push(...nums);
+  return nums;
+}
+console.log(getConcatenation2([1, 2, 1]));
 
 /* There are two primary methods for concatenating arrays in JavaScript: Using the concat() method.
 The concat() method is an array method that allows you to merge one or 
