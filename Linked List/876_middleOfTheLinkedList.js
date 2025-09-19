@@ -1,4 +1,4 @@
-// Problem 876
+// Leetcode : 876 : Middle of the Linked List
 // Find the middle node of a linked list
 // Using slow/fast pointer approach
 // Time Complexity: O(n) Space Complexity: O(1)

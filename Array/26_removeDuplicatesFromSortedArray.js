@@ -1,4 +1,4 @@
-// Problem 26
+//  Leetcode : 26 : Remove Duplicates From Sorted Array
 //Bruteforce approach
 //time complexity: O(n^2) space complexity: O(1)
 function removeDuplicates(nums) {

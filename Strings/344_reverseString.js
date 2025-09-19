@@ -1,4 +1,4 @@
-// Problem 344
+// Leetcode : 344 : Reverse String
 // Find the reverse of a string
 // Using two-pointer approach
 function reverseString(s) {

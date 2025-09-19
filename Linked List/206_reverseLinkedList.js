@@ -1,4 +1,4 @@
-// Problem 206
+// Leetcode : 206 : Reverse Linked List
 // Reverse a linked list
 // Using iterative approach
 // Time Complexity: O(n) Space Complexity: O(1)

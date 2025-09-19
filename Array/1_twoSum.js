@@ -1,4 +1,4 @@
-// Problem 1
+// Leetcode : 1 : Two Sum
 //Bruteforce approach
 // time O(n^2) , space O(1)
 function twoSum(nums,target){

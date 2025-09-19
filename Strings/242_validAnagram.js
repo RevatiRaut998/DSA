@@ -1,4 +1,4 @@
-// Problem 242
+// Leetcode : 242 : Valid Anagram
 // Function to check if two strings are anagrams
 // Optimized approach using character count
 // Time complexity: O(n) , space complexity: O(1)

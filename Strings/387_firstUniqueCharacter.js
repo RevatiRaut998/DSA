@@ -1,4 +1,4 @@
-// Problem 387
+// Leetcode : 387 : First Unique Character
 // Find the first unique character in a string
 // Using hash map to count frequencies
 function firstUniqChar(s) {
